@@ -3,4 +3,4 @@
 
 - 📫 Связаться со мной: **telegram: https://t.me/leksizzz**
 
-- ⚡ Технологии: **PHP, Laravel, HTML, CSS, GIT, JavaScript, SQL, Postman.**
+- ⚡ Технологии: **PHP, Laravel, HTML, CSS, GIT, JavaScript, SQL, Postman, Composer.**
